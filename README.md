@@ -1,24 +1,15 @@
 ## 👋 Hello, I'm Gabriela
 
-- Cloud & Network Engineer in training  
-- AWS Certified Cloud Practitioner  
-- Currently studying for CCNA  
+- Cisco Certified Network Associate (CCNA)
+- AWS Certified Cloud Practitioner 
 
 ---
 
 ### 🎓 Education
-Associate Degree (Technologist) in Systems Analysis and Development (2026)
-
----
-
-### 🔧 Skills
-- Networking: VLANs, IPv4/IPv6, Routing, OSI Model, TCP/IP, Network Protocols and Basic Security Concepts
-- Cloud: AWS (EC2, S3, IAM, VPC, CloudWatch), Cloud Concepts
-- Application Layer: HTTP, DNS, basic API understanding
-- Programming: JavaScript, HTML/CSS, Python
-- OS: Linux (basic)
+Bachelor's degree in Systems Analysis and Development. (2026)
 
 ---
 
 🎯 Focus  
-Building hands-on networking and cloud labs
+
+Building hands-on networking labs to strengthen my technical skills.
